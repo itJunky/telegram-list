@@ -137,6 +137,9 @@
 * [Метро Петербурга](https://t.me/spbmetro) — Новости Петербургского Метрополитена
 * [PIN-MIX](https://t.me/pinmix) — Еженедельные всесезонные пятничные ночные покатушки по улицам Санкт-Петербурга
 
+##### Саратов. Новости, полезная информация
+* [Публичный канал города Саратов](https://t.me/saratov_public) — Общение и сходки для тех, кто живёт не только сетью.
+
 -------------
 
 ## Группы и чаты
@@ -276,6 +279,7 @@
 * [QA](https://t.me/qa_jobs) — Чат про вакансии и работу в сфере тестирования
 * [Products Jobs](https://t.me/products_jobs) - Публикуем вакансии и запросы на поиск работы - управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX.
 * [Agile Jobs](https://t.me/agile_jobs) - Вакансии, связанные с Agile.
+* [FreeLance Jobs](https://t.me/getFreelance) — Вакансии по фрилансу, подписки на различные категории и развитие бота, уведомляющего о новой работе. 
 
 ##### Управление проектами, продакт-менеджмент, Agile, Kanban, SCRUM
 * [Products_ru](https://t.me/products_ru) - Общаемся на темы, посвященные управлению продуктами, Growth Hacking, Cust Dev, Design Thinking, UX, метрикам и т.д. Комьюнити более 1000 человек, доступ по инвайтам.
@@ -384,6 +388,7 @@
 * [@bitbucket_bot](https://t.me/bitbucket_bot) — Интеграция bitbucket в телеграм
 * [@integram_bot](https://t.me/integram_bot) — Интеграция разных сервисов по разработке ПО в телеграм
 * [@ChatbroBot](https://t.me/chatbrobot) — Позволяет встроить Telegram чат на сайт
+* [@parserfreelancer_bot](https://t.me/parserfreelancer_bot) — Присылает уведомления о новой фриланс-работе по указанной категории
 
 ##### Прочие боты
 * [@ImageSearchBot](https://t.me/ImageSearchBot) — Бот поиска картинок от Яндекса
